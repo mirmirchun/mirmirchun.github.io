@@ -12,3 +12,6 @@ author:
   location: "South Korea"
   github: "mirmirchun"
   linkedin: "msw-ai-change"
+
+# Navigation links
+nav: "main" # This tells the site to look for the "main" section in navigation.yml
