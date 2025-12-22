@@ -1,0 +1,13 @@
+remote_theme: "academicpages/academicpages.github.io"
+title: "Miriam Chun, MSW"
+name: "Miriam Chun"
+description: "Executive Director @ IRF | PhD Student @ GIST"
+url: "https://mirmirchun.github.io"
+baseurl: ""
+
+author:
+  name: "Miriam Chun, MSW"
+  bio: "AI Alignment & Global Rehabilitation Equity"
+  location: "South Korea"
+  github: "mirmirchun"
+  linkedin: "msw-ai-change"
