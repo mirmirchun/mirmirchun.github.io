@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Miriam Chun, MSW"
 title_separator          : "-"
-name                     : &name "Miriam Chun"
-description              : &description "Executive Director @ IRF | PhD Student @ GIST"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Miriam Chun"
+description              : "Executive Director @ IRF | PhD Student @ GIST"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://mirmirchun.github.io",
                                             
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
