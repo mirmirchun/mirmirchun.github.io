@@ -1,4 +1,4 @@
-# Basic Site Settings
+remote_theme: "academicpages/academicpages.github.io"
 site_theme: "default"
 title: "Miriam Chun, MSW"
 title_separator: "-"
