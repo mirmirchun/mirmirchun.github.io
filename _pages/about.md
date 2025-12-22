@@ -1,26 +1,16 @@
 ---
 layout: single
-permalink: /
 title: "About Me"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am a PhD Student at the **Gwangju Institute of Science and Technology (GIST)** and the **Executive Director** of the **International Rehabilitation Forum (IRF)**. My personal mission is to bridging the gap between high-level AI policy and the human-centric needs of global rehabilitation.
+I am a PhD Student at the **Gwangju Institute of Science and Technology (GIST)** and the **Executive Director** of the **International Rehabilitation Forum (IRF)**. My personal mission is to bridge the gap between high-level AI policy and the human-centric needs of global rehabilitation.
 
 ### Research Interests
-Working within the **Law and Policy Laboratory** at GIST, my research explores the intersection of:
-* **AI Alignment & Social Justice:** Ensuring that emerging AI governance frameworks protect vulnerable populations.
-* **Disability & Digital Ethics:** Applying the Capability Approach to digital welfare states to prevent technological displacement.
-* **Global Health Policy:** Strengthening rehabilitation medicine infrastructure in low-resource settings.
+* **AI Alignment & Social Justice**
+* **Disability & Digital Ethics**
+* **Global Health Policy**
 
 ### Global Leadership
-As a **Board Member and Executive Director** of the **IRF**, I lead strategic initiatives to build Physical Rehabilitation Medicine specialty capacity in the Global South. I believe that both technological alignment and rehabilitation services are fundamental to addressing the rising NCD burden in the Global South and the demographic challenges of an aging Global North.
-
-*I hold a Master of Social Work (MSW) and am committed to bridging the gap between technological advancement and social equity.*
-
-
-For more info
-------
+As Executive Director of the **IRF**, I lead initiatives to build rehabilitation specialty capacity in the Global South.
