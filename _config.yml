@@ -1,17 +1,18 @@
 remote_theme: "academicpages/academicpages.github.io"
+
 title: "Miriam Chun, MSW"
 name: "Miriam Chun"
-description: "Executive Director @ IRF | PhD Student @ GIST"
+description: "AI Policy · Global Health Equity · Rehabilitation Capacity Building"
+
 url: "https://mirmirchun.github.io"
 baseurl: ""
 
 author:
   name: "Miriam Chun, MSW"
-  avatar: "https://avatars.githubusercontent.com/u/178338573?v=4"
-  bio: "AI Alignment & Global Rehabilitation Equity"
+  avatar: "/profilephoto.jpg"
+  bio: "AI Policy, Empowerment, and Global Rehabilitation Equity"
   location: "South Korea"
   github: "mirmirchun"
   linkedin: "msw-ai-change"
 
-# Navigation links
-nav: "main" # This tells the site to look for the "main" section in navigation.yml
+nav: "main"
