@@ -13,12 +13,11 @@ Research focus: AI evaluation, empowerment, capacity building, and global health
 
 **Master of Social Work, Macro Social Work**  
 University of Pennsylvania, Philadelphia, PA, USA  
-2011–2013  
 Field Placement: Hematology Department, Sickle Cell Center, Children’s Hospital of Philadelphia
 
 **Bachelor of Science, Neuroscience**  
 University of Minnesota, Twin Cities, MN, USA  
-2004–2008
+
 
 
 
@@ -60,6 +59,7 @@ English, fluent
 ### Executive Director, **International Rehabilitation Forum (IRF)**  
 2020–Present
 * Oversee IRF’s programs, partnerships, operations, training initiatives, and communications
+
 ### Events Coordinator, **Max Planck Florida Institute for Neuroscience**  
 2015–2020
 * Established and managed the MPFI's Events Department to plan key institutional projects, including scientific conferences, training programs, public lectures, concerts, and education outreach initiatives.
