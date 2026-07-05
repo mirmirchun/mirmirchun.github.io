@@ -16,7 +16,13 @@ I’m a PhD student in the **AI Law and Policy Lab**, advised by **Dohyun Park**
 
 I combine **social work theory, AI evaluation methods, and systems-level capacity building** to study whether LLM interactions can support empowerment by building on local strengths and strengthening contextual judgment.
 
-## Areas of Interest
+### more about me
+I earned my B.S. in Neuroscience from the University of Minnesota and my Master of Social Work from the University of Pennsylvania, where I focused on macro social work and community-based practice. During my MSW training, I served as the social work lead and steering committee member for United Community Clinic, a student-run multidisciplinary clinic organized with medical, nursing, dental, and social work students. In that role, I managed community partnerships and worked with local residents and service organizations in West Philadelphia to improve access to health and social support resources.
+
+For me, leadership is about creating a space where people can recognize their strengths and work together toward a shared goal. I am passionate about bridging technological advancement with social equity.
+Outside of work, I volunteer to support the Youth and young adults, and I enjoy cooking Korean food, exploring nature in the countryside.   
+
+## Research Interest
 
 * **Responsible AI for Global Health Capacity Building:** I am interested in low-resource global health settings where formal training systems, specialist faculty, and clinical resources may be limited. In these contexts, AI tools may become important learning supports, but they also raise risks, including dependency, misinformation, paternalistic guidance, cultural mismatch, and the reproduction of existing inequities.
 
@@ -29,8 +35,6 @@ I combine **social work theory, AI evaluation methods, and systems-level capacit
 Through **IRF**, I guide the organization’s programs, partnerships, and operations to strengthen rehabilitation medicine education, professional networks, and specialty training pathways in low-resource countries where rehabilitation services and training resources are limited.
 
 I also contribute to global rehabilitation advocacy through the **World Rehabilitation Alliance (WRA)**, a WHO-hosted network, as a monitoring and evaluation strategist.
-
-I hold a **Master of Social Work (MSW)** and am committed to bridging technological advancement with social equity.
 
 <div class="homepage-contact">
   <a href="mailto:mirmirchun@gmail.com" aria-label="Email Miriam Chun">
