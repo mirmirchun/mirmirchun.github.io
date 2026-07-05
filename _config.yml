@@ -9,10 +9,10 @@ baseurl: ""
 
 author:
   name: "Miriam Chun, MSW"
-  avatar: "/profilephoto.jpg"
+  avatar: "https://mirmirchun.github.io/profilephoto.jpg"
   bio: "AI Policy, Empowerment, and Global Rehabilitation Equity"
   location: "South Korea"
   github: "mirmirchun"
-  linkedin: "msw-ai-change"
+  linkedin: "msw-change-ai"
 
 nav: "main"
