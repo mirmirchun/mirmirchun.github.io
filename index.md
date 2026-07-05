@@ -4,7 +4,6 @@ permalink: /
 author_profile: true
 ---
 
-# **Miriam** Chun
 I am a systems-oriented social worker studying the social impact of AI in capacity-buliding contexts.  
 
 I'm a PhD Student in the AI Law and Policy Lab, advised by Dohyun Park, at the  **Gwangju Institute of Science and Technology (GIST)**. I also serve as **Executive Director of the International Rehabilitation Forum (IRF)**, a nonprofit organization that builds Physical Rehabilitation Medicine(PRM) capacities in low-resource countries where formal PRM specialty training and recognition is unavailable.  
