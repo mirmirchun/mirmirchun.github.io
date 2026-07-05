@@ -4,7 +4,7 @@ permalink: /
 author_profile: false
 ---
 
-# Miriam Chun
+<h1 class="homepage-name">Miriam Chun</h1>
 
 <img src="/profilephoto.jpg" alt="Miriam Chun" class="profile-photo-right">
 
