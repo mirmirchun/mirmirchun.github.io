@@ -67,3 +67,12 @@ body,
 .page__content li {
   margin-bottom: 0.55rem;
 }
+/* Profile photo circle size */
+.author__avatar img {
+  width: 150px;
+  height: 150px;
+  max-width: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
