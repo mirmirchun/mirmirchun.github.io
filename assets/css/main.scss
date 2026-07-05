@@ -220,29 +220,24 @@ textarea,
   font-weight: 400 !important;
 }
 
-/* Slim footer */
-.page__footer {
-  margin-top: 2rem !important;
-  padding: 0.7rem 0 !important;
-  background-color: transparent !important;
-  border-top: 1px solid #eeeeee !important;
+/* 1. Make the entire page a flexbox column */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
 
-.page__footer footer {
-  max-width: 860px !important;
-  margin: 0 auto !important;
-  padding: 0 1.5rem !important;
+/* 2. Tell the main content area to grow and take up all available empty space */
+.initial-content, 
+div[role="main"] {
+  flex: 1 0 auto;
 }
 
-/* Hide GitHub / Feed row */
-.page__footer-follow {
-  display: none !important;
-}
-
-/* Make copyright text smaller and lighter */
-.page__footer-copyright,
-.page__footer-copyright a {
-  font-size: 0.75rem !important;
-  line-height: 1.35 !important;
-  color: #777777 !important;
+/* 3. Keep the footer at its natural size at the bottom */
+.page__footer, 
+footer {
+  flex-shrink: 0;
+  width: 100%;
+  position: static; /* This forces it to stop floating over your content */
 }
