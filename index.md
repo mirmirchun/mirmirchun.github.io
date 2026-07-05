@@ -26,4 +26,16 @@ I also actively contribute to global rehabilitation advocacy through the World R
 
 I hold a Master of Social Work (MSW) and am committed to bridging the technilogical advancement with social equity, and ensuring emerging AI governance frameworks are architected to protect and empwoer vulnerable populations. 
 
+<div class="homepage-contact">
+  <a href="mailto:miriam.chun@gm.gist.ac.kr" aria-label="Email Miriam Chun">
+    <i class="fas fa-envelope"></i>
+    Email
+  </a>
+
+  <a href="https://www.linkedin.com/in/msw-change-ai/" aria-label="LinkedIn profile">
+    <i class="fab fa-linkedin"></i>
+    LinkedIn
+  </a>
+</div>
+
 ---
