@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
 I am a systems-oriented social worker studying the social impact of AI in capacity-buliding contexts.  
