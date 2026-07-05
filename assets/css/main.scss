@@ -122,28 +122,6 @@ textarea,
   object-position: 50% 65% !important;
 }
 
-/* Simple top navigation spacing */
-.masthead__inner-wrap {
-  max-width: 980px !important;
-  margin: 0 auto !important;
-}
-
-.greedy-nav {
-  background: transparent !important;
-}
-
-.greedy-nav .visible-links {
-  display: flex !important;
-  align-items: center !important;
-}
-
-.greedy-nav .visible-links .masthead__menu-item--lg {
-  margin-right: auto !important;
-}
-
-.greedy-nav .visible-links .masthead__menu-item:not(.masthead__menu-item--lg) {
-  margin-left: 1.2rem !important;
-}
 
 /* Profile photo inside homepage content */
 .profile-photo-right {
