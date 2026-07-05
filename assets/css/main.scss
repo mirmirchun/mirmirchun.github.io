@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap");
+
 @import "vendor/breakpoint/breakpoint",
   "themes",
   "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
@@ -26,38 +28,32 @@
   "vendor/font-awesome/solid",
   "vendor/font-awesome/brands";
 
-/* Cleaner academic homepage typography */
+/* Sitewide font */
 body,
-.page__content,
-.page__content p,
-.page__content li,
+button,
+input,
+select,
+textarea,
 .masthead,
+.greedy-nav,
 .sidebar,
 .author__content,
 .author__name,
-.author__bio {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+.author__bio,
+.page__content,
+.page__content p,
+.page__content li,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Main content typography */
 .page__content {
-  font-size: 0.95rem;
-  line-height: 1.65;
-}
-
-.page__content h1 {
-  font-size: 2.1rem;
-  font-weight: 400;
-  margin-bottom: 1.2rem;
-}
-
-.page__content h1 strong {
-  font-weight: 700;
-}
-
-.page__content h2 {
-  font-size: 1.35rem;
-  margin-top: 2.2rem;
-  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  line-height: 1.68;
 }
 
 .page__content p {
@@ -67,6 +63,46 @@ body,
 .page__content li {
   margin-bottom: 0.55rem;
 }
+
+/* Page title */
+.page__content h1 {
+  font-size: 2.1rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.2rem;
+}
+
+.page__content h1 strong {
+  font-weight: 700;
+}
+
+/* Section headings */
+.page__content h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.page__content h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Sidebar profile text */
+.author__name {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
 /* Profile photo circle size */
 .author__avatar img {
   width: 150px;
