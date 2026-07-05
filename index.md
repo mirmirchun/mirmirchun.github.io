@@ -16,7 +16,7 @@ I combine **social work theory, AI evaluation methods, and systems-level capacit
 * **AI Governance and Social Justice:** Examining how AI systems may reproduce, amplify, or reduce inequities affecting underserved communities and people with disabilities.
 * **Empowerment-Centerend AI Evaluation:** Developing a framework to evaluate whether LLM interactions support empowering processes, including informed choice, agency, strengths-based reasoning, resource navigation, contextual responsiveness, and sustainable capacity building.  
 
-### Global Leadership
+## Global Leadership
 Through the **IRF**, I guide the organization’s programs, partnerships, and operations to strengthen rehabilitation medicine education, professional networks, and specialty training pathways in low-resource countries where rehabilitation services and training resources are limited. 
 
 I also actively contribute to global rehabilitation advocacy through the World Rehabilitaion Alliance (WRA), a WHO-hosted network, as a monitoring and evaluation strategist.  
