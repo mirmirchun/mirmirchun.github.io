@@ -219,3 +219,30 @@ textarea,
 .homepage-name .last-name {
   font-weight: 400 !important;
 }
+
+/* Slim footer */
+.page__footer {
+  margin-top: 2rem !important;
+  padding: 0.7rem 0 !important;
+  background-color: transparent !important;
+  border-top: 1px solid #eeeeee !important;
+}
+
+.page__footer footer {
+  max-width: 860px !important;
+  margin: 0 auto !important;
+  padding: 0 1.5rem !important;
+}
+
+/* Hide GitHub / Feed row */
+.page__footer-follow {
+  display: none !important;
+}
+
+/* Make copyright text smaller and lighter */
+.page__footer-copyright,
+.page__footer-copyright a {
+  font-size: 0.75rem !important;
+  line-height: 1.35 !important;
+  color: #777777 !important;
+}
