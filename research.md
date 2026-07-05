@@ -1,10 +1,10 @@
 ---
-
 layout: single
 title: "Empowerment-Centered AI Evaluation"
 permalink: /research/
 author_profile: false
----------------------
+---
+
 
 Many existing AI evaluations focus on model-centered performance, such as capability, accuracy, reasoning, knowledge, and safety violations. These measures are important, but they do not fully answer a critical question for real-world capacity-building contexts: **Do AI interactions strengthen or undermine the agency, judgment, and capacity of the people using them?**
 
