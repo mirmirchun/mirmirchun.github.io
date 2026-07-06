@@ -14,7 +14,7 @@ I am a **systems-oriented social worker** studying the social impact of AI in ca
 
 I’m a PhD student in the **AI Law and Policy Lab**, advised by **Dohyun Park**, at the **Gwangju Institute of Science and Technology (GIST)**. I also serve as **Executive Director of the International Rehabilitation Forum (IRF)**, a nonprofit organization that builds **Physical and Rehabilitation Medicine (PRM)** capacity in low-resource countries where formal PRM specialty training and recognition may be limited or unavailable.
 
-I combine **social work theory, AI evaluation methods, and systems-level capacity building** to study whether LLM interactions can support empowerment by building on local strengths and strengthening contextual judgment.
+I combine **social work theory, AI evaluation methods, and systems-level capacity building** to study whether LLM interactions can support empowerment by building on local strengths and enhancing contextual judgment.
 
 ### more about me
 I earned my B.S. in Neuroscience from the University of Minnesota and my Master of Social Work from the University of Pennsylvania, where I focused on macro social work and community-based practice. During my MSW training, I served as the social work lead and steering committee member for United Community Clinic, a student-run multidisciplinary clinic organized with medical, nursing, dental, and social work students. In that role, I managed community partnerships and worked with local residents and service organizations in West Philadelphia to improve access to health and social support resources.
